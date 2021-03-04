@@ -1,0 +1,4 @@
+feeling_of_loneliness; {AGENT, REAL}
+reduced_performance; {AGENT, REAL}
+alcoholism; {AGENT, REAL}
+cardiovascular_diseases; {AGENT, REAL}

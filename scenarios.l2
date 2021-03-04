@@ -1,0 +1,6 @@
+default(
+feeling_of_loneliness{john, 0.9}; [1:50]
+reduced_performance{john, 0.2}; [1:50]
+alcoholism{john, 0.2}; [1:50]
+cardiovascular_diseases{john, 0.2}; [1:50]
+)
